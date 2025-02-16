@@ -6,6 +6,8 @@ const words = [
   "PROGRAMMING",
   "DEVELOPER",
   "BROWSER",
+  "REACT",
+  "JAVA",
 ];
 let selectedWord = "";
 let correctLetters = [];
